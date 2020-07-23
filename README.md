@@ -3,11 +3,11 @@
 * [Instalation](#installation)
 * [Feature](#feature)
 * [YOUTUBE](#youtube)
-* [DONATE](#donate)
+* [DOATE](#donate)
 
 ## Picture
 
-<img src="https://github.com/SansBae/mbf-sans/blob/master/lib/Screenshot_2020-06-25-14-27-02-52.png" />
+<img src="https://github.com/Kagurazaga/castalia/blob/master/lib/Screenshot_2020-07-24-05-11-04-868_com.termux.png" />
 
 # Feature
 * Loginya Pake Cookie Bro
@@ -18,14 +18,15 @@
 ```
 $ pkg update && pkg upgrade
 $ pkg install git
-$ git clone https://github.com/SansBae/mbf-sans.git
+$ git clone https://github.com/castalia/ikz
 $ bash setup.sh
 ```
 
-## YOUTUBE
-Click [here](https://www.youtube.com/c/SANSBAE) To Subscribe My Channel
+## MY SOCIAL MEDIA
+Click [here](https://www.facebook.com/c/nsaa00xd) 
+Click [here](https://Instagram.com/kz_206)
 
 
 ## DONATE
 Untuk Mendukung agar script dapat berkembang kalian bisa donasi ke akun dana saya :)
-<ul><li>NO : 082388196755</ul></li>
+<ul><li>NO : 089614402699</ul></li>
