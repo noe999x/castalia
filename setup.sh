@@ -9,6 +9,6 @@ pkg install python -y
 pkg install python
 pkg install git 
 pip install requests bs4
-cd mbf-sans
+cd castalia
 python3  -m pip install requests bs4
-python3 sans.py
+python3 ikz.py
