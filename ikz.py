@@ -157,6 +157,7 @@ if __name__ == '__main__':
                 ses = requests.Session()
                 kukis = masuk()
                 kuki = {'cookie':kukis}
+                def banner():
                 os.system("clear")
                   print(f'''{r} 
      __            _     _ _         
