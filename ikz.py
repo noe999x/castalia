@@ -158,7 +158,6 @@ if __name__ == '__main__':
                 kukis = masuk()
                 kuki = {'cookie':kukis}
                 def banner():
-                os.system("clear")
                   print(f'''{r} 
      __            _     _ _         
     / /__ __ _ ___| |_  (_) | __ ____
