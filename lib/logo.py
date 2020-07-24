@@ -18,4 +18,4 @@ def banner():
 {r}║{y}*{b} Author{w} :{g} CastaliaIkz             
 {r}║{y}*{w} Coder{w}:{r} Kagurazaga                      
 {r}║{y}*{g} Facebook{w} :{b} \x1b[4mMoch Bagas Kurniawan 
-{r}====> >====> >====> >====> >====> >====> >====> >====> ''')
+{r}====> >====> >====> >====> >====> >====> >====> >====>''')
