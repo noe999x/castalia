@@ -15,7 +15,7 @@ def banner():
  /_/ \___\__,_|___/\__(_)_|_|\_\/___|
                                      1.2
 {b}╔═════════════════════════════════════════╗
-{b}║{y}*{g} Author{w} :{g} CastaliaIkz             {b}║
-{b}║{y}*{r} Coder{w}:{r} Kagurazaga             {b}   ║
-{b}║{y}*{b} Github{w} :{b} \x1b[4mhttps://github.com/S║
+{b}║{y}*{g} Author{w} :{g} CastaliaIkz             {b}
+{b}║{y}*{r} Coder{w}:{r} Kagurazaga     
+{b}║{y}*{b} Facebook{w} :{b} \x1b[4mMoch Bagas Kurniawan
 {b}╚═════════════════════════════════════════╝ ''')
