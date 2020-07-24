@@ -158,6 +158,18 @@ if __name__ == '__main__':
                 kukis = masuk()
                 kuki = {'cookie':kukis}
                 os.system("clear")
+                  print(f'''{r} 
+     __            _     _ _         
+    / /__ __ _ ___| |_  (_) | __ ____
+   / / __/ _` / __| __| | | |/ /|_  /
+  / / (_| (_| \__ \ |_ _| |   <  / / 
+ /_/ \___\__,_|___/\__(_)_|_|\_\/___|
+                                     XamppGangstaTeam
+{b}╔═════════════════════════════════════════╗
+{b}║{y}*{g} Author{w} :{g} CastaliaIkz
+{b}║{y}*{r} Coder{w}:{r} Kagurazaga
+{b}║{y}*{b} Github{w} :{b} \x1b[4mMoch Bagas Kurniawan
+{b}╚═════════════════════════════════════════╝ ''')
                 print('\n\n\t\t≺ \033[1;36mFACEBOOK HACK BY CASTALIAIKZ\033[0m ≻\n\n')
                 print('\033[1;91m┣━ \033[0m[\033[1;32m1\033[0m] Crack dari daftar teman')
                 print('\033[1;91m┣━\033[0m [\033[1;32m2\033[0m] Crack dari Likes\033[1;91m ')
@@ -250,10 +262,10 @@ if __name__ == '__main__':
                                         for passw in set(listpass):
                                                 ex.submit(login,(users[1]),(passw))
                 if check != 0 or result != 0:
-                        print("\n[\033[1;32m✔\033[0m Done. file saved in : ")
+                        print("\n[\033[1;32m✔\033[Selesai bro. file saved in : ")
                         print("        - life : results-life.txt")
                         print("        - checkpoint : results-check.txt")
-                        exit("# thanks for using this tools")
+                        exit("# Tools author : Moch Bagas Kurniawa")
                 else:
                         print("\n# Done")
                         exit("# no result")
@@ -261,4 +273,5 @@ if __name__ == '__main__':
                 exit()
         except requests.exceptions.ConnectionError:
                 exit("# Connection error")
+
 
