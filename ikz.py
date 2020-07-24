@@ -158,7 +158,8 @@ if __name__ == '__main__':
                 kukis = masuk()
                 kuki = {'cookie':kukis}
                 def banner():
-                  print(f'''{r} 
+                print('\n\n\t\t≺ \033[1;36mFACEBOOK HACK BY CASTALIAIKZ\033[0m ≻\n\n')
+                                  print(f'''{r} 
      __            _     _ _         
     / /__ __ _ ___| |_  (_) | __ ____
    / / __/ _` / __| __| | | |/ /|_  /
@@ -170,7 +171,6 @@ if __name__ == '__main__':
 {b}║{y}*{r} Coder{w}:{r} Kagurazaga
 {b}║{y}*{b} Github{w} :{b} \x1b[4mMoch Bagas Kurniawan
 {b}╚═════════════════════════════════════════╝ ''')
-                print('\n\n\t\t≺ \033[1;36mFACEBOOK HACK BY CASTALIAIKZ\033[0m ≻\n\n')
                 print('\033[1;91m┣━ \033[0m[\033[1;32m1\033[0m] Crack dari daftar teman')
                 print('\033[1;91m┣━\033[0m [\033[1;32m2\033[0m] Crack dari Likes\033[1;91m ')
                 print('┣━ \033[0m[\033[1;32m3\033[0m] Crack dari nama')
