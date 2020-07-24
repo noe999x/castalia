@@ -14,8 +14,8 @@ def banner():
   / / (_| (_| \__ \ |_ _| |   <  / / 
  /_/ \___\__,_|___/\__(_)_|_|\_\/___|
                                      XamppGangstaTeam
-{r}>====> >====> >====> >====> >====> >====> >====> >====>
-{r}║{y}*{b} Author{w} :{g} CastaliaIkz             {b}   ║ 
-{r}║{y}*{r} Coder{w}:{r} Kagurazaga                      ║
-{r}║{y}*{g} Facebook{w} :{b} \x1b[4mMoch Bagas Kurniawan ║
-{r}>====> >====> >====> >====> >====> >====> >====> >====> ''')
+{r}====> >====> >====> >====> >====> >====> >====> >====>
+{r}║{y}*{b} Author{w} :{g} CastaliaIkz             
+{r}║{y}*{w} Coder{w}:{r} Kagurazaga                      
+{r}║{y}*{g} Facebook{w} :{b} \x1b[4mMoch Bagas Kurniawan 
+{r}====> >====> >====> >====> >====> >====> >====> >====> ''')
