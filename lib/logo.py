@@ -7,15 +7,15 @@ r = '\x1b[1;31m'
 
 def banner():
   os.system('clear')
-  print(f'''{b} 
+  print(f'''{r} 
      __            _     _ _         
     / /__ __ _ ___| |_  (_) | __ ____
    / / __/ _` / __| __| | | |/ /|_  /
   / / (_| (_| \__ \ |_ _| |   <  / / 
  /_/ \___\__,_|___/\__(_)_|_|\_\/___|
-                                     1.2
-{b}╔═════════════════════════════════════════╗
-{b}║{y}*{g} Author{w} :{g} CastaliaIkz             {b}
-{b}║{y}*{r} Coder{w}:{r} Kagurazaga     
-{b}║{y}*{b} Facebook{w} :{b} \x1b[4mMoch Bagas Kurniawan
-{b}╚═════════════════════════════════════════╝ ''')
+                                     XamppGangstaTeam
+{r}>====> >====> >====> >====> >====> >====> >====> >====>
+{r}║{y}*{b} Author{w} :{g} CastaliaIkz             {b}   ║ 
+{r}║{y}*{r} Coder{w}:{r} Kagurazaga                      ║
+{r}║{y}*{g} Facebook{w} :{b} \x1b[4mMoch Bagas Kurniawan ║
+{r}>====> >====> >====> >====> >====> >====> >====> >====> ''')
