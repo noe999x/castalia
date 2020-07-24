@@ -154,19 +154,6 @@ def grubid(endpoint):
 if __name__ == '__main__':
         try:
                 os.system("git pull")
-                def banner():
-                                  print(f'''{r} 
-     __            _     _ _         
-    / /__ __ _ ___| |_  (_) | __ ____
-   / / __/ _` / __| __| | | |/ /|_  /
-  / / (_| (_| \__ \ |_ _| |   <  / / 
- /_/ \___\__,_|___/\__(_)_|_|\_\/___|
-                                     XamppGangstaTeam
-{b}╔═════════════════════════════════════════╗
-{b}║{y}*{g} Author{w} :{g} CastaliaIkz
-{b}║{y}*{r} Coder{w}:{r} Kagurazaga
-{b}║{y}*{b} Github{w} :{b} \x1b[4mMoch Bagas Kurniawan
-{b}╚═════════════════════════════════════════╝ ''')
                 ses = requests.Session()
                 kukis = masuk()
                 kuki = {'cookie':kukis}
