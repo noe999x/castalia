@@ -244,6 +244,8 @@ if __name__ == '__main__':
                                                 str(x) + '12345',
                                                 str(x) + '123456',
                                                 str(x) + '12',
+                                                str(x) + '1',
+                                                str(x) + '11',
                                                 ]
                                         listpass.append(expass)
                                         for passw in set(listpass):
