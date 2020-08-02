@@ -233,7 +233,7 @@ if __name__ == '__main__':
                         exit("# pilihan salah")
                 print()
                 expass = input("[\033[1;32m>\033[0m] Password tambahan : ")
-                print("# result will be saved in results-life.txt and results-check.txt")
+                print(" Tunggu sampai proses selesai ")
                 with ThreadPoolExecutor(max_workers=30) as ex:
                         for user in username:
                                 users = user.split('|')
