@@ -193,7 +193,7 @@ if __name__ == '__main__':
                         if len(username) == 0:
                                 exit("# ID Salah")
                 elif tanya == '5':
-                        zet = input("# enter username/Id : ")
+                        zet = input("# Masukan ID : ")
                         if zet.isdigit():
                                 user = "/profile.php?id=" + zet
                         else:
@@ -202,7 +202,7 @@ if __name__ == '__main__':
                                 user = parser(requests.get(mbasic.format(user),cookies=kuki).content,"html.parser").find('a',string="Teman")["href"]
                                 username = getid(mbasic.format(user))
                         except TypeError:
-                                exit("# user not found ")
+                                exit("# User tidak ditemukan ")
                 elif tanya == '6':
                         try:
                                 file1 = open("results-check.txt").read()
