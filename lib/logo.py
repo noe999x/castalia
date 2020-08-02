@@ -14,7 +14,6 @@ def banner():
 {g}   / / __/ _` / __| __| | | |/ /|_  /
 {b}  / / (_| (_| \__ \ |_ _| |   <  / /.
 {y} /_/ \___\__,_|___/\__(_)_|_|\_\/___|
-
 {r}▬▬ι═══════ﺤ  Facebook Bruteforce  -═══════ι▬▬
 {r}︻デ═一{y}*{b} Author{w}      :{g} CastaliaIkz.....
 {y}︻デ═一{y}*{w} Coder{w}       :{r} Kagurazaga
