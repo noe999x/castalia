@@ -166,32 +166,32 @@ if __name__ == '__main__':
                 print('\033[1;91m┣━ \033[0m[\033[1;32m6\033[0m] Cek Results')
                 print('\033[1;91m┗\033[0m\n')
                 print()
-                tanya = input('➛ ')
+                tanya = input('︻デ═一 ')
                 if tanya =="":
-                        exit("[!] Dont be empty")
+                        exit("[!] Tidak ada pilihan")
                 elif tanya == '1':
                         url = parser(ses.get(mbasic.format('/me'),cookies=kuki).content,'html.parser').find('a',string='Teman')
                         username = getid(mbasic.format(url["href"]))
                 elif tanya == '2':
                         username = input("# url : ")
                         if username == "":
-                                exit("# Dont be empty")
+                                exit("# Tidak ada pilihan")
                         elif 'www.facebook' in username:
                                username = username.replace('www.facebook','mbasic.facebook')
                         elif 'm.facebook.com' in username:
                                username = username.replace('m.facebook.com','mbasic.facebook.com')
                         username = fromlikes(username) 
                 elif tanya == '3':
-                        zet = input("# query : ")
+                        zet = input("# Mengambil ID : ")
                         username = bysearch(mbasic.format('/search/people/?q='+zet))
                         if len(username) == 0:
                                 exit("# no result")
                 elif tanya == '4':
-                        print("# can only take 100 IDs ")
+                        print("# Hanya bisa mengambil 1000 ID ")
                         grab = input("# ID group : ")
                         username = grubid(mbasic.format("/browse/group/members/?id=" + grab))
                         if len(username) == 0:
-                                exit("# ID wrong")
+                                exit("# ID Salah")
                 elif tanya == '5':
                         zet = input("# enter username/Id : ")
                         if zet.isdigit():
