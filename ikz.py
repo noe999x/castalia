@@ -169,7 +169,7 @@ if __name__ == '__main__':
                 ses = requests.Session()
                 kukis = masuk()
                 kuki = {'cookie':kukis}
-                print('\n\n\t\t!!! \033[1;91mFacebook Toolkit By Ikz\033[0m !!!\n\n')
+                print('\033[1;32m︻デ═一*Facebook Toolkit By Ikz\033[0m')
                 print('\033[1;91m┣━ \033[0m[\033[1;32m1\033[0m] Crack dari daftar teman')
                 print('\033[1;91m┣━\033[0m [\033[1;32m2\033[0m] Crack dari Likes\033[1;91m ')
                 print('┣━ \033[0m[\033[1;32m3\033[0m] Crack dari nama')
