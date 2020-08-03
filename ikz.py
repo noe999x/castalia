@@ -43,10 +43,7 @@ while (loop == 'true'):
         else:
             print ' Password Salah Nyet !'
             os.system('clear')
-    else:
-        print ' Username Salah Nyet !'
-        os.system('clear')
-        logo.banner()
+    else:        logo.banner()
         print('\n\n\t\t≺ \033[1;36mFACEBOOK LOGIN\033[0m ≻\n\n')
         try:
                 cek = open("cookies").read()
