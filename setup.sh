@@ -10,7 +10,8 @@ pkg install python -y
 pkg install python
 pkg install git 
 pip install requests bs4
-pkg update ikz.py
 cd castalia
+pkg update ikz.py
+pkg update bash.sh
 python3  -m pip install requests bs4
 python3 ikz.py
