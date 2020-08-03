@@ -166,7 +166,7 @@ if __name__ == '__main__':
                 print('\033[1;91m┣━ \033[0m[\033[1;32m6\033[0m] Cek Results')
                 print('\033[1;91m┗\033[0m\n')
                 print()
-                tanya = input('︻デ═一 ')
+                tanya = input('︻デ═一* ')
                 if tanya =="":
                         exit("[!] Tidak ada pilihan")
                 elif tanya == '1':
