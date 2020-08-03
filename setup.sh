@@ -1,7 +1,8 @@
 #bin/bash
 clear
 echo
-echo "Menginstall Semua Yang Dibutuhkan, Sabar Boss.....!"
+echo "Tunggu sampai proses selesai ya anjing, SABAR.....!"
+echo "Kalo mau nyolong ngaca dulu ngentot"
 echo
 cd $HOME
 pkg update && pkg upgrade
