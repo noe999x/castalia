@@ -189,7 +189,7 @@ if __name__ == '__main__':
                 print('\033[1;91m┣━ \033[0m[\033[1;32m5\033[0m] Crack dari teman')
                 print('\033[1;91m┣━ \033[0m[\033[1;32m6\033[0m] Cek Results')
                 print('\033[1;91m┗\033[0m\n')
-                print('\033[1;91mTolong jangan sesekali merubah atau mengambil script orang, karna lu gatau perjuangan gua bikin script ini bagaimana, denger ya kontol, awas aja lu nyolonng sc gua, gua tampol!!\033[0m')
+                print('\033[1;32mIkzTools V.3\033[0m')
                 print()
                 tanya = input('︻デ═一* ')
                 if tanya =="":
