@@ -16,12 +16,12 @@ global die,check,result, count
 print("\033[1;91mJawab yang bener setan\033[0m\n")
 user = input("\033[1;32mNama Lo Siapa?: \033[0m\n")
 print("\033[1;91mCakepppp...\033[0m\n")
-sandi = input("\033[1;33mPunya Pacar Ga Lo?:\033[0m\n")
+sandi = input("\033[1;33mKetik BagasGanteng:\033[0m\n")
 if sandi == 'Ngga' and user == 'Punya':
-        print("\033[1;91mGa laku ya? awokwowkoko\033[0m\n")
+        print("\033[1;91mAwowkowkwok\033[0m\n")
 else:
 
-        print("\033[1;91mGa Laku Ya Sob?Awowkowkok\033[0m\n")
+        print("\033[1;91mAwowkowkok\033[0m\n")
 print("\033[1;33m!!! PERINGATAN !!!\033[0m\n")
 #Clear
 #end
