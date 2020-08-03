@@ -27,6 +27,7 @@ b = '\x1b[1;36m'
 r = '\x1b[1;31m'
 
 def masuk():
+        logo.banner()
         print('\n\n\t\t≺ \033[1;36mFACEBOOK LOGIN\033[0m ≻\n\n')
         try:
                 cek = open("cookies").read()
