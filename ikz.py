@@ -30,19 +30,6 @@ def masuk():
         logo.banner()
         print('\n\n\t\t≺ \033[1;36mFACEBOOK LOGIN\033[0m ≻\n\n')
         try:
-    username = raw_input(' Castalia: ')
-    if (username == Castalia):
-        password = raw_input(' Ikz: ')
-        if (password == Ikz):
-            print ' Mantap Jiwa ' + username
-            time.sleep(1)
-            loop = 'false'
-        else:
-            print ' Password Salah Nyet !'
-            os.system('clear')
-    else:
-        print ' Username Salah Nyet !'
-        os.system('clear')
                 cek = open("cookies").read()
         except FileNotFoundError:
                 cek = input("[\033[1;32m>\033[0m Masukan Cookie : ")
