@@ -30,9 +30,9 @@ def masuk():
         logo.banner()
         print('\n\n\t\t≺ \033[1;36mFACEBOOK LOGIN\033[0m ≻\n\n')
         try:
-    username = raw_input(' Username Tools: ')
+    username = raw_input(' Castalia: ')
     if (username == Castalia):
-        password = raw_input(' Password Tools: ')
+        password = raw_input(' Ikz: ')
         if (password == Ikz):
             print ' Mantap Jiwa ' + username
             time.sleep(1)
