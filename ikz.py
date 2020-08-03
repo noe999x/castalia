@@ -14,14 +14,14 @@ mbasic = 'https://mbasic.facebook.com{}'
 global die,check,result, count
 #start
 print("\033[1;91mJawab yang bener setan\033[0m\n")
-user = input("\033[1;32mNama Lo Siapa?: \033[0m\n")
+user = input("\033[1;32mKetik BagasGanteng \033[0m\n")
 print("\033[1;91mCakepppp...\033[0m\n")
-sandi = input("\033[1;33mKetik BagasGanteng:\033[0m\n")
-if sandi == 'Ngga' and user == 'Punya':
+sandi = input("\033[1;33mKetik AkuJelek\033[0m\n")
+if sandi == 'AkuJelek' and user == 'BagasGanteng':
         print("\033[1;91mAwowkowkwok\033[0m\n")
 else:
 
-        print("\033[1;91mAwowkowkok\033[0m\n")
+        print("\033[1;91mIsi Yang Bener Setan\033[0m\n")
 print("\033[1;33m!!! PERINGATAN !!!\033[0m\n")
 #Clear
 #end
