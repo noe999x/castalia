@@ -22,9 +22,10 @@ if sandi == 'Ngga' and user == 'Punya':
 else:
 
         print("\033[1;91mGa Laku Ya Sob?Awowkowkok\033[0m\n")
-print("\033[1;34mJangan Lupa Follow Fb Gua Ya Ganteng\033[0m\n")
+print("\033[1;33m!!! PERINGATAN !!!\033[0m\n")
 #Clear
 #end
+
 id = []
 die = 0
 chek = []
