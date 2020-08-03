@@ -27,6 +27,25 @@ b = '\x1b[1;36m'
 r = '\x1b[1;31m'
 
 def masuk():
+CorrectUsername = 'Castalia'
+CorrectPassword = 'ikz'
+
+loop = 'true'
+while (loop == 'true'):
+    print logo
+    username = raw_input(' Username Tools: ')
+    if (username == CorrectUsername):
+        password = raw_input(' Password Tools: ')
+        if (password == CorrectPassword):
+            print ' Mantap Jiwa ' + username
+            time.sleep(1)
+            loop = 'false'
+        else:
+            print ' Password Salah Nyet !'
+            os.system('clear')
+    else:
+        print ' Username Salah Nyet !'
+        os.system('clear')
         logo.banner()
         print('\n\n\t\t≺ \033[1;36mFACEBOOK LOGIN\033[0m ≻\n\n')
         try:
