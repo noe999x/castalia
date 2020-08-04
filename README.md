@@ -7,7 +7,7 @@
 
 ## Picture
 
-<img src="https://github.com/Kagurazaga/castalia/blob/master/lib/Screenshot_2020-07-24-05-11-04-868_com.termux.png" />
+<img src="https://github.com/Kagurazaga/castalia/blob/master/lib/Screenshot_2020-08-04-12-05-41-340_com.miui.gallery.png" />
 
 # Feature
 * Loginya Pake Cookie Bro
