@@ -10,21 +10,21 @@
 <img src="https://github.com/Kagurazaga/castalia/blob/master/lib/Screenshot_2020-08-04-12-05-41-340_com.miui.gallery.png" />
 
 # Feature
-* Loginya Pake Cookie Bro
-* Proses Hack yang Sungguh cepat 
+* Loginya Pake Cookie
+* Proses Crack Jangan Diragukan
 * Extra Password
 
 ## Installation
 ```
 $ pkg update && pkg upgrade
 $ pkg install git
-$ git clone https://github.com/castalia/ikz
+$ git clone https://github.com/kagurazaga/castalia
 $ bash setup.sh
 ```
 
 ## MY SOCIAL MEDIA
-Click [here](https://www.facebook.com/c/nsaa00xd) 
-Click [here](https://Instagram.com/kz_206)
+Facebook [here](https://www.facebook.com/c/nsaa00xd) 
+Instagram [here](https://Instagram.com/kz_206)
 
 
 ## DONATE
