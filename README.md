@@ -2,8 +2,10 @@
 Ikz Tools 1<br>Login With Cookies !<br>Anti CP 100%
 > Fitur Crack
 - Crack From Friend List
-- Crack From ID Public
+- Crack From Likes ( Post ID )
 - Crack From Grup ID
+- Crack From Username
+- Crack From ID Public
 
 ## Picture
 
