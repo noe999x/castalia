@@ -1,15 +1,13 @@
 # Facebook Bruteforce Tool
 Ikz Tools 1<br>Login With Cookies !<br>Anti CP 100%
-> Crack With Email
-- Yahoo
-- Gmail
-- Hotmail
-> Crack With Number Phone
-- All Country
+> Fitur Crack
+- Crack From Friend List
+- Crack From ID Public
+- Crack From Grup ID
 
 ## Picture
 
-<img src="https://github.com/Kagurazaga/New_Ikz/blob/master/Screenshot_2020-08-19-19-18-37-507_com.termux.png">
+<img src="https://github.com/Kagurazaga/castalia/blob/master/lib/1597742132-picsay.png">
 
 ## Install
 ```
