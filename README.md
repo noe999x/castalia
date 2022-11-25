@@ -7,10 +7,6 @@ Ikz Tools 1<br>Login With Cookies !<br>Anti CP 100%
 - Crack From Username
 - Crack From ID Public
 
-## Picture
-
-<img src="https://github.com/Kagurazaga/castalia/blob/master/lib/1597742132-picsay.png">
-
 ## Install
 ```
 $ pkg update && pkg upgrade
